@@ -1,9 +1,9 @@
 # Steps to Integrate amazon S3 
 
 
-# OpenXava version: 6.2.2
+OpenXava version: 6.2.2
 
-# Library required
+Library required
 
 1) aws-java-sdk-1.11.699-javadoc.jar
 2) aws-java-sdk-1.11.699-sources.jar
